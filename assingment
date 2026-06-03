@@ -1,0 +1,8 @@
+deadline = datetime(2026,6,15)
+date_input=input("enter submission date (YYYY-MM-DD):")
+submit_date=datetime.strptime(date_input, "%y-%m-%d")
+if submit_date <= deadline:
+  print("submitted on time!")
+else:
+  print("late submission!")
+  
