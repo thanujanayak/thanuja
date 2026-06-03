@@ -1,0 +1,7 @@
+score=int(input("enter your score (0 to 100):"))
+if score >=75:
+  print("distinction")
+elif score >=50:
+  print("pass")
+else:
+    print("fail")
