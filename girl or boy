@@ -1,0 +1,8 @@
+name=input("enter the name:")
+gender=input("enter thw gender:").strip().lower()
+if gender=="girl":
+  print(f"hello, Miss{name}!")
+elif gender=="boy":
+  print(f"hello,mrs{name}!")
+else:
+  print(f"hello,{name}!")
