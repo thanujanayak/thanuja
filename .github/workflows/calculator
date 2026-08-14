@@ -4,4 +4,4 @@ num1=float(input("Enter first number:"))
 num2=float(input("Enter Second number:"))
 
   result=num1+num2
-  print(f"The total sum is: {result]")
+  printf("The total sum is:[result]")
