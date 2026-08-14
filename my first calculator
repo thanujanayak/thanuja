@@ -1,0 +1,7 @@
+# Simple Python Calculator
+print("welcome to my calculator!")
+num1=float(input("Enter first number:"))
+num2=float(input("Enter Second number:"))
+
+  result=num1+num2
+  printf("The total sum is:[result]")
