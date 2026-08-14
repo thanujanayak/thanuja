@@ -1,0 +1,7 @@
+print("hello welcome to thanu software!")
+if a>b:
+print("a is topper")
+elif b>a:
+print("b is topper")
+else:
+print("thank you for using my software")
