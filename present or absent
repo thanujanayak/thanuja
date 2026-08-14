@@ -1,0 +1,8 @@
+name=input("enter student name:")
+status=input("is the student present (p) or absent(a)?").upper()
+if status =="p":
+  print(f"[name} is present.")
+if status =="A":
+  print(f"name} is absent.")
+else:
+  print("invalid choice! please use 'A' or 'P'.")
