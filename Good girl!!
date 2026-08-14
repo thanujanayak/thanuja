@@ -1,7 +1,7 @@
 print("hello welcome to thanu software!")
 if a>b:
-print("a is topper")
+print("a is Good girl")
 elif b>a:
-print("b is topper")
+print("b is Good girl")
 else:
 print("thank you for using my software")
